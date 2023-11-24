@@ -10,6 +10,8 @@
 
 https://drive.google.com/file/d/1-vPtLfvcrCCI_fDwvwELrGebqkmQVxYD/view?usp=drive_link 
 
+[![Casos-de-Prueba-Trabajo-Final-Testing-funcional-y-accesibilidad-web.png](https://i.postimg.cc/0NdGvS3K/Casos-de-Prueba-Trabajo-Final-Testing-funcional-y-accesibilidad-web.png)](https://postimg.cc/xk8NyX99)
+
                    
 
 
